@@ -1,3 +1,8 @@
+Based on your findings, make a brief (1-2 sentences) recommendation to your clients. 
+Can the cryptocurrencies be clustered together? If so, into how many clusters? 
+
+Yes, cryptocurrencies can be clustered together in 3 clusters,
+
 # Cryptocurrency Clusters
 
 ## Background
